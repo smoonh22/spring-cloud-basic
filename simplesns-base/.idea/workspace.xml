@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc9df66f-41d0-41d7-824f-dfaaa601453a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UPsxkm8fONEQeAkPVPfwturT7q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.msa.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SimplesnsSocialApplication">
+    <configuration name="SimpleSNSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="simplesns-base" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msa.SimpleSNSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimplesnsSocialApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="simplesns-social" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.msa.SimplesnsSocialApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc9df66f-41d0-41d7-824f-dfaaa601453a" name="Default Changelist" comment="" />
+      <created>1575269812146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575269812146</updated>
+      <workItem from="1575269815743" duration="1702000" />
+      <workItem from="1575274054832" duration="2740000" />
+      <workItem from="1575336291716" duration="25693000" />
+      <workItem from="1575508651609" duration="206000" />
+      <workItem from="1575508893360" duration="2093000" />
+      <workItem from="1575597074671" duration="247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="128" key="SettingsEditor" timestamp="1575509369733">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="584" y="128" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1575509369733" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1575509684611">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1575509684611" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+server:
+  port: 8888
+
+spring:
+#  profiles:
+#    active: native
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/smoonh22/simplesns-config.git
+          search-paths:
+            - baseservice
+            - socialservice
+  security:
+    user:
+      name: admin
+      password: asdqwe123
+
+#        native:
+#          search-locations:
+#            - classpath:baseservice/
+#            - classpath:socialservice/

@@ -1,0 +1,10 @@
+server:
+  port: 8761
+
+
+eureka:
+  client:
+  #등록된 다른 노드들을 가져오겠다.
+    fetch-registry: false
+  #다른 유레카 서버에 클라이언트로 등록하겠다
+    register-with-eureka: false
